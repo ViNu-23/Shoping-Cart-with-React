@@ -5,13 +5,14 @@
   justify-content: space-around;
   position: fixed;
   width: 100vw;
-  background-color: white;
+  background-color: rgb(4, 4, 4);
   padding: 32px;
+  color: aliceblue;
 }
 .nav .active {
   font-weight: 800;
 }
 .nav a {
-  color: black;
+  color: rgb(255, 254, 254);
   text-decoration: none;
 }
