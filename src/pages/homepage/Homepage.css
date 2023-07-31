@@ -15,3 +15,11 @@
   width: 100%;
   max-height: 300px;
 }
+button:hover {
+  background-color: #040404;
+  transition: 0.7s;
+  color: aliceblue;
+}
+button{
+  padding: 15px;
+}
